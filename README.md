@@ -2,7 +2,15 @@
 
 ## FaQ
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+#### What is Eiomi-bot?
+
+Well.. Eiomi-bot is a multi-functional discord bot which can secure your Discord Server while being able to play and have fun with everyone.
+
+#### Is Eiomi-bot Free?
+
+Yes, Eiomi-bot is 100% free, however if you're willing to donate. Surely you can it will be very helpful.
+
+
 
 ## Want to jump right in?
 
