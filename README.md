@@ -10,6 +10,12 @@ Well.. Eiomi-bot is a multi-functional discord bot which can secure your Discord
 
 Yes, Eiomi-bot is 100% free, however if you're willing to donate. Surely you can it will be very helpful.
 
+#### Can you configure Eiomi-bot functionality?
+
+Yes you can configure Eiomi-bot's functionality through a dashboard nor clicking the link below!
+
+{% embed url="https://eiomibot.xyz" %}
+
 
 
 ## Want to jump right in?
